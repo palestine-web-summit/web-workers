@@ -1,6 +1,6 @@
-# Palestine Web Summit - Web Workers Demo
+### Palestine Web Summit - Web Workers Demo
 
-## Clone the repo to your machine
+##### Clone the repo to your machine
 
 1) Make sure you have Grunt installed 
 
